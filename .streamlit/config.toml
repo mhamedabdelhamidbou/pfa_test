@@ -1,0 +1,7 @@
+[theme]
+base="light"
+primaryColor="#2C3E50"  # Bleu foncé classique pour une apparence élégante
+backgroundColor="#F4F6F7"  # Gris clair pour une interface propre
+secondaryBackgroundColor="#ECF0F1"  # Légère variation pour les sections secondaires
+textColor="#2C3E50"  # Texte sombre et lisible
+font="serif"  # Police élégante et formelle
